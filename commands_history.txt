@@ -1,0 +1,482 @@
+    1  wdir
+    2  dir
+    3  exit
+    4  logout
+    5  restart
+    6  quit
+    7  clr
+    8  cls
+    9  clea
+   10  claar
+   11  cls
+   12  //
+   13  wdir
+   14  xit
+   15  exit
+   16  setxkbmap us
+   17  sudo apt update && sudo apt upgrade
+   18  sudo dmesg | grep -i keyboard
+   19  mmmm
+   20  m``````````````"¬¬¬¬¬¬¬¬¬`````¬¬¬¬¬fffffffgghhhjjjkkklllll      nnnnnbbbbbnnnlllllllljjjjmmmnnncccxxxddddffffrreeewllll;;;jjjhhhhhuukklll; iiiuu;;;;;þþp ooooi    ppppp    uuuuj                       k    
+   21                                 
+   22  nnnn
+   23    ffj  kkkkk kk                        kk                                         
+   24  kkkhg  jfffffff erd                                                                                                                                                     
+   25  nkk    kkkfgfgkdj                                                                                                                                                                                   
+   26  mm nmrtrtrtrtrt  tty ytyt          kmk          kmk m kkm  
+   27  klk klk er ere ere            dfhjhjhj jhhjdf 
+   28  exit
+   29  quit
+   30  quit
+   31  exit
+   32  free -h
+   33  exit
+   34  conda navigator
+   35  conda navigator 
+   36  conda navigator activate
+   37  conda navigator run
+   38  klk klk er ere ere            dfhjhjhj jhhjdf 
+   39  prompt
+   40  prompt <fsd>
+   41  export PS1="\[\e[32m\]NorthernTrust_765_Live \[\e[0m\]> "
+   42  clear
+   43  ls
+   44  du
+   45  df
+   46  ds
+   47  ls
+   48  ls -ltr
+   49  pip list
+   50  pip list | grep beau
+   51  pip list | grep pand
+   52  pip list | grep num
+   53  pip list | grep req
+   54  pip list | grep sel
+   55  pip list | grep seleni
+   56  pip list | grep sele
+   57  pip install selenium
+   58  pip list | grep sele
+   59  which chromedriver
+   60  which chrome driver
+   61  d
+   62  which chrome
+   63  which ch
+   64  which 
+   65  pip list | grep sele
+   66  pip install --upgrade selenium
+   67  pip list | grep sele
+   68  pip install --upgrade selenium
+   69  pip list | grep sele
+   70  which python
+   71  pip install --upgrade --force-reinstall selenium
+   72  pip show selenium
+   73  pip uninstall selenium
+   74  pip list | grep sel
+   75  pip install selenium
+   76  pip show selenium
+   77  export PS1="\[\e[32m\]NorthernTrust_Serv_Live \[\e[0m\]> 
+   78  ls
+   79  pwd
+   80  ps1
+   81  clear
+   82  export PS1="\[\e[32m\]NorthernTrust_Serv_Live \[\e[0m\]> "
+   83  clear
+   84  export PS1="\[\e[32m\]NorthernTrust_765_Live \[\e[0m\]> "
+   85  clear
+   86  ls
+   87  sudo hostname new- arun@NT_FinServ
+   88  sudo arun@arun-HP-EliteBook-840-G6:~ new-arun@NT_FinServ
+   89  clear
+   90  anaconda-navigator
+   91  nano ~/.local/share/applications/anaconda-navigator.desktop
+   92  chmod +x ~/.local/share/applications/anaconda-navigator.desktop
+   93  update-desktop-database ~/.local/share/applications/
+   94  anacona -navigator
+   95  anaconda -navigator
+   96  anaconda-navigator
+   97  anaconda -navigator
+   98  anaconda-navigator
+   99  pip install pymupdf
+  100  pip install --upgrade pymupdf
+  101  pip install pdf-redactor
+  102  ip a
+  103  whoami
+  104  grep arun /etc/passwd
+  105  sudo cat /var/log/xrdp-sesman.log
+  106  sudo passwd arun
+  107  grep arun /etc/passwd
+  108  sudo systemctl restart xrdp
+  109  sudo tail -f /var/log/xrdp.log
+  110  sudo tail -f /var/log/xrdp-sesman.log
+  111  sudo apt update
+  112  sudo apt install xfce4 xfce4-goodies
+  113  echo "startxfce4" > ~/.xsession
+  114  sudo systemctl restart xrdp
+  115  sudo systemctl status xrdp
+  116  sudo apt update
+  117  sudo apt install xrdp
+  118  sudo systemctl start xrdp
+  119  sudo systemctl status xrdp
+  120  sudo systemctl start xrdp
+  121  ipconfig
+  122  hostname
+  123  hostname -i
+  124  nmcli device show
+  125  [200~sudo systemctl start xrdp
+  126  sudo systemctl start xrdp
+  127  sudo nano /etc/xrdp/startwm.sh
+  128  sudo chown arun:arun ~/.Xauthority
+  129  sudo systemctl restart xrdp
+  130  sudo reboot
+  131  sudo systemctl enable xrdp
+  132  sudo systemctl start xrdp
+  133  echo "startxfce4" > ~/.xsession
+  134  sudo apt install xfce4 xfce4-goodies
+  135  hostname -I
+  136  sudo nano /etc/xrdp/xrdp.ini
+  137  echo $DISPLAY
+  138  sudo nano /etc/xrdp/xrdp.ini
+  139  sudo nano /etc/X11/Xwrapper.config
+  140  sudo systemctl restart xrdp
+  141  sudo systemctl restart gdm3   # For GNOME-based desktops
+  142  sudo systemctl restart lightdm  # For LightDM-based desktops
+  143  sudo systemctl restart lightdm
+  144  exit
+  145  history | grep -E '^[ ]*[0-9]+.*(apt|snap|config|install|update|upgrade)'
+  146  ls -lt /etc | head
+  147  sudo timeshift --list
+  148  sudo mv /etc/filename.bak /etc/filename
+  149  sudo nano /etc/X11/Xwrapper.config
+  150  sudo nano /etc/xrdp/xrdp.ini
+  151  history
+  152  sudo apt remove --purge xrdp -y
+  153  sudo apt remove --purge xfce4 xfce4-goodies -y
+  154  sudo apt autoremove -y
+  155  sudo apt clean
+  156  rm ~/.xsession
+  157  sudo chown $(whoami):$(whoami) ~/.Xauthority
+  158  cat /etc/os-release
+  159  systemctl status display-manager
+  160  cat /etc/X11/default-display-manager
+  161  sudo apt update
+  162  sudo apt install gdm3
+  163  sudo dpkg-reconfigure gdm3
+  164  sudo apt remove --purge lightdm -y
+  165  sudo apt autoremove -y
+  166  sudo apt clean
+  167  sudo reboot
+  168  systemctl status display-manager
+  169  cat /etc/X11/default-display-manager
+  170  sudo systemctl status xrdp
+  171  sudo systemctl start xrdp
+  172  sudo systemctl enable xrdp
+  173  dpkg -l | grep xrdp
+  174  sudo apt purge pipewire-module-xrdp
+  175  sudo apt autoremove
+  176  sudo apt install xrdp -y
+  177  which xrdp
+  178  sudo systemctl enable xrdp
+  179  sudo systemctl start xrdp
+  180  sudo ufw allow 3389
+  181  sudo ufw reload
+  182  sudo netstat -tlnp | grep 3389
+  183  sudo nano /etc/xrdp/xrdp.ini
+  184  sudo systemctl restart xrdp
+  185  sudo nano /etc/gdm3/custom.conf
+  186  sudo systemctl restart gdm3
+  187  sudo nano /etc/xrdp/sesman.ini
+  188  sudo systemctl restart xrdp
+  189  sudo systemctl restart gdm3  # For GNOME
+  190  cat /etc/xrdp/startwm.sh
+  191  sudo journalctl -u xrdp -f
+  192  sudo chown xrdp:xrdp /etc/xrdp/cert.pem /etc/xrdp/key.pem
+  193  sudo chmod 600 /etc/xrdp/cert.pem /etc/xrdp/key.pem
+  194  sudo systemctl restart xrdp
+  195  sudo journalctl -u xrdp -f
+  196  echo $XDG_CURRENT_DESKTOP
+  197  cat /etc/xrdp/startwm.sh.
+  198  sudo nano /etc/xrdp/startwm.sh
+  199  sudo chmod +x /etc/xrdp/startwm.sh
+  200  sudo systemctl restart xrdp
+  201  sudo journalctl -u xrdp -f
+  202  sudo chown xrdp:xrdp /etc/xrdp/cert.pem /etc/xrdp/key.pem
+  203  sudo chmod 600 /etc/xrdp/cert.pem /etc/xrdp/key.pem
+  204  sudo systemctl restart xrdp
+  205  sudo nano /etc/xrdp/xrdp.ini
+  206  sudo systemctl restart xrdp
+  207  sudo journalctl -u xrdp -f
+  208  sudo chown $USER:$USER ~/.Xauthority
+  209  rm -f ~/.Xauthority
+  210  sudo nano /etc/xrdp/startwm.sh
+  211  sudo systemctl restart xrdp
+  212  sudo cat /var/log/xrdp-sesman.log
+  213  sudo chmod -R 777 /tmp/.X11-unix
+  214  sudo apt install ubuntu-desktop gnome-session
+  215  sudo systemctl restart xrdp
+  216  sudo chmod -R 777 /tmp/.X11-unix
+  217  /tmp/.xorgxrdp.*.log
+  218  cat /tmp/.xorgxrdp.*.log
+  219  sudo journalctl -u xrdp
+  220  ls -l /etc/xrdp/key.pem
+  221  sudo chmod 600 /etc/xrdp/key.pem
+  222  sudo chown xrdp:xrdp /etc/xrdp/key.pem
+  223  ls -l /etc/ssl/private/ssl-cert-snakeoil.key
+  224  sudo chmod 600 /etc/ssl/private/ssl-cert-snakeoil.key
+  225  sudo chown root:root /etc/ssl/private/ssl-cert-snakeoil.key
+  226  ls -l /etc/ssl/private/ssl-cert-snakeoil.key
+  227  sudo ls -l /etc/ssl/private/ssl-cert-snakeoil.key
+  228  sudo chmod 600 /etc/ssl/private/ssl-cert-snakeoil.key
+  229  sudo chown root:root /etc/ssl/private/ssl-cert-snakeoil.key
+  230  sudo ls -l /etc/xrdp/key.pem
+  231  sudo systemctl restart xrdp
+  232  sudo tail -f /var/log/xrdp.log
+  233  sudo ls -l /etc/xrdp/key.pem
+  234  sudo ls -l /etc/ssl/private/ssl-cert-snakeoil.key
+  235  sudo chmod 600 /etc/ssl/private/ssl-cert-snakeoil.key
+  236  sudo ls -l /etc/xrdp/key.pem
+  237  sudo rm /etc/xrdp/key.pem
+  238  sudo ln -s /etc/ssl/private/ssl-cert-snakeoil.key /etc/xrdp/key.pem
+  239  sudo chown root:root /etc/ssl/private/ssl-cert-snakeoil.key
+  240  sudo chown root:root /etc/xrdp/key.pem
+  241  sudo systemctl restart xrdp
+  242  sestatus
+  243  sudo setenforce 0
+  244  sudo tail -f /var/log/xrdp.log
+  245  cat /etc/xrdp/key.pem
+  246  ls -l  /etc/xrdp/key.pem
+  247  ls -l /etc/ssl/private/ssl-cert-snakeoil.key
+  248  ls -ld /etc/ssl/private/
+  249  sudo ls -l /etc/ssl/private/
+  250  sudo cat /etc/ssl/private/ssl-cert-snakeoil.key
+  251  sudo chmod 644 /etc/ssl/private/ssl-cert-snakeoil.key
+  252  sudo systemctl restart xrdp
+  253  sudo tail -f /var/log/xrdp.log
+  254  sudo openssl genpkey -algorithm RSA -out /etc/xrdp/key.pem -aes256
+  255  sudo openssl req -new -x509 -key /etc/xrdp/key.pem -out /etc/xrdp/cert.pem -days 365
+  256  sudo chmod 600 /etc/xrdp/key.pem
+  257  sudo chmod 644 /etc/xrdp/cert.pem
+  258  sudo systemctl restart xrdp
+  259  sudo apt update
+  260  sudo apt install tigervnc-standalone-server tigervnc-viewer
+  261  vncpasswd
+  262  vncserver
+  263  vncserver -kill :1
+  264  sudo apt remove --purge tigervnc-standalone-server tigervnc-common
+  265  sudo apt autoremove --purge
+  266  rm -rf ~/.vnc
+  267  exit
+  268  sudo apt install chrome-remote-desktop
+  269  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+  270  sudo dpkg -i google-chrome-stable_current_amd64.deb
+  271  wget https://dl.google.com/linux/direct/chrome-remote-desktop_current_amd64.deb
+  272  sudo dpkg -i chrome-remote-desktop_current_amd64.deb
+  273  sudo apt --fix-broken install
+  274  sudo dpkg -r chrome-remote-desktop
+  275  sudo apt autoremove
+  276  rm -r ~/.chrome-remote-desktop
+  277  exit
+  278  nautilus
+  279  sudo apt update
+  280  sudo apt install --reinstall gnome-terminal
+  281  dconf reset -f /org/gnome/settings-daemon/plugins/media-keys/
+  282  exit
+  283  quit
+  284  logout
+  285  sudo systemctl enable xrdp
+  286  sudo systemctl start xrdp
+  287  sudo ufw allow 3389
+  288  sudo ufw reload
+  289  sudo systemctl restart xrdp
+  290  /etc/xrdp/startwm.sh
+  291  cat /etc/xrdp/startwm.sh
+  292  sudo apt update
+  293  sudo apt upgrade
+  294  sudo apt install kde-plasma-desktop
+  295  sudo reboot
+  296  dpkg -l | grep xrdp
+  297  sudo systemctl status xrdp
+  298  sudo nano /etc/xrdp/startwm.sh
+  299  ed /etc/xrdp/startwm.sh
+  300  sudo gedit /etc/xrdp/startwm.sh
+  301  sudo vim /etc/xrdp/startwm.sh
+  302  sudo apt install gedit
+  303  sudo gedit /etc/xrdp/startwm.sh
+  304  sudo systemctl restart xrdp
+  305  sudo gedit /etc/xrdp/startwm.sh
+  306  sudo systemctl restart xrdp
+  307  sudo less /var/log/xrdp.log
+  308  sudo gedit /etc/xrdp/startwm.sh
+  309  xrandr --output X11 --mode 1920x1080
+  310  sudo apt install xserver-xorg-core dbus-x11
+  311  sudo systemctl restart xrdp
+  312  sudo reboot
+  313  whoami
+  314  unix version
+  315  version -a
+  316  ver
+  317  vdr
+  318  exit
+  319  sudo gedit /etc/xrdp/xrdp.ini
+  320  echo $DISPLAY
+  321  sudo gedit /etc/xrdp/startwm.sh
+  322  echo $DISPLAY
+  323  sudo systemctl restart xrdp
+  324  sudo reboot
+  325  sudo gedit /etc/xrdp/startwm.sh
+  326  sudo systemctl restart xrdp
+  327  sudo systemctl daemon-reload
+  328  sudo systemctl restart xrdp
+  329  sudo gedit /etc/xrdp/startwm.sh
+  330  sudo systemctl restart xrdp
+  331  sudo gedit /etc/xrdp/startwm.sh
+  332  sudo find /etc -type f -mmin -500 
+  333  sudo find /etc -type f -mmin -500 > recent_changes.txt 2>&1
+  334  cat recent_changes.txt 
+  335  sudo find /etc -type f -mmin -500 > recent_changes.txt
+  336  cat recent_changes.txt 
+  337  sudo find /etc -type f -mmin -400 -printf "%T+ %p\n" > recent_changes_with_time.txt
+  338  cat recent_changes.txt 
+  339  sudo find /etc -type f -mmin -500 -exec stat -c '%y %n' {} + > recent_changes_with_time.txt
+  340  cat recent_changes_with_time.txt
+  341  sudo apt install openssh-server
+  342  ssh -L 3389:localhost:3389 arun@192.168.0.14
+  343  ssh-keygen -lf /etc/ssh/ssh_host_ed25519_key.pub
+  344  exit
+  345  sudo reboot
+  346  top
+  347  htop
+  348  battery
+  349  exit
+  350  python
+  351  pip install data_store
+  352  version 
+  353  python -v
+  354  python --version
+  355  exit
+  356  pip install data_store
+  357  pip install importlib-metadata
+  358  pip install data_store
+  359  pip install --upgrade data_store
+  360  pip download data_store
+  361  pip install --no-deps data_store
+  362  python patch_imp.py
+  363  python /home/arun/Desktop/DataAnalysis/patch_imp.py
+  364  pip install data_store
+  365  lsof -i :51073
+  366  app.run(debug=True, port=5001)  # Change the port to 5001 or any available port
+  367  app.run(debug=True, port=5001)
+  368  lsof -i :51073
+  369  kill -9 854663
+  370  kill -9 854389
+  371  lsof -i :44391
+  372  taskkill /PID <PID> /F
+  373  kill -9 942111
+  374  curl -X POST http://127.0.0.1:5000/calc
+  375  curl -X POST http://127.0.0.1:5000/calca
+  376  pip install waitress
+  377  kill -9 
+  378  lsof -i :44391
+  379  kill -9 2066747
+  380  kill -9 2066746
+  381  lsof -i :5000
+  382  kill -9 94
+  383  lsof -i :8080
+  384  lsof -i :5000
+  385  find . -name "__pycache__" -type d -exec rm -r {} +
+  386  python
+  387  ps aux | grep python
+  388  kill -9 851564
+  389  kill -9 1087437
+  390  ps aux | grep python
+  391  kill -9 1683
+  392  kill -9 1049407
+  393  lsof -i :5000
+  394  lsof -i :8080
+  395  lsof -i :8082
+  396  pip install --upgrade spyder
+  397  conda create -n new_env python=3.12
+  398  conda activate new_env
+  399  conda init
+  400  conda activate new_env
+  401  conda init
+  402  source ~/anaconda3/etc/profile.d/conda.sh
+  403  source ~/anaconda3/bin/activate  # Linux/macOS
+  404  conda activate new_env
+  405  rm -rf ~/anaconda3
+  406  rm -rf ~/.condarc ~/.conda ~/.continuum
+  407  nano ~/.bashrc
+  408  echo $PATH
+  409  conda deactivate
+  410  nano ~/.bashrc
+  411  source ~/.bashrc
+  412  echo $PATH
+  413  export PATH=$(echo $PATH | sed -e 's|/home/arun/anaconda3/bin:||' -e 's|/home/arun/anaconda3/condabin:||' -e 's|/home/arun/anaconda3/envs/new_env/bin:||')
+  414  echo $PATH
+  415  rm -rf /home/arun/anaconda3
+  416  find ~ -name '.conda*' -exec rm -rf {} +
+  417  find ~ -name '.continuum' -exec rm -rf {} +
+  418  source ~/.bashrc
+  419  wget https://repo.anaconda.com/archive/Anaconda3-latest-Linux-x86_64.sh
+  420  wget https://repo.anaconda.com/archive/Anaconda3-2023.11-Linux-x86_64.sh
+  421  lscpu
+  422  mv ~/Downloads/Anaconda3-latest-Linux-x86_64.sh ~/
+  423  mv /home/arun/Downloads/Anaconda3-2024.10-1-Linux-x86_64 /home/arun/Anaconda/
+  424  pwd
+  425  chmod +x Anaconda3-2024.10-1-Linux-x86_64
+  426  chmod +x Anaconda3-2024.10-1-Linux-x86_64.sh
+  427  ./Anaconda3-2024.10-1-Linux-x86_64.sh
+  428  exit
+  429  conda activate your_environment_name  # For Anaconda users
+  430  exit
+  431  notepad++
+  432  wine ~/.wine/drive_c/Program\ Files/Notepad++/notepad++.exe
+  433  sudo apt install wine
+  434  wine ~/.wine/drive_c/Program\ Files/Notepad++/notepad++.exe
+  435  cat ~/.ssh/id_rsa.pub
+  436  tree
+  437  pwd
+  438  cd ansible-playground/
+  439  ansible-playbook -i inventory.ini localhost_playbook.yml -v
+  440  uptime
+  441  exit
+  442  ssh -T git@github.com
+  443  ssh -keyjen -t rsa -b 4096 -c "relaxsurya@gmail.com"
+  444  ssh -keygen -t rsa -b 4096 -c "relaxsurya@gmail.com"
+  445  ssh-keygen -t rsa -b 4096 -c "relaxsurya@gmail.com"
+  446  ssh-keygen -t rsa -b 4096 "relaxsurya@gmail.com"
+  447  ssh-keygen -t rsa -b 4096 -C "relaxsurya@gmail.com" -f ~/.ssh/id_rsa_github
+  448  cat ~/.ssh/id_rsa_github.pub
+  449  ssh -t relaxsurya@gmail.com
+  450  eval "$(ssh-agent -s)"
+  451  ssh-add ~/.ssh/id_rsa_github
+  452  ssh-add -l
+  453  ssh -vT git@github.com
+  454  git clone git@github.com:relaxsurya/CI_CD.git
+  455  pwd
+  456  cd CI_CD/
+  457  gey status
+  458  git status
+  459  git init
+  460  git branch
+  461  git status
+  462  echo "Hello Nelakuttygit status!" > first.txt
+  463  git add .
+  464  git commit -m "Initial cmmit"
+  465  git config --global user.email "relaxsurya@gmail.com"
+  466  git config --global user.name "relaxsurya"
+  467  git config --global --list
+  468  git config --list
+  469  git add .
+  470  git commit -m "Initial Commit"
+  471  git remote add origin git@github.com:relaxsurya/CI_CD.git
+  472  git remote -v
+  473  git push -u origin master
+  474  git push -u origin main
+  475  git push
+  476  git checkout -b feature-City-Branch
+  477  echo "New feature work" >> feature.txt
+  478  git add feature.txt 
+  479  git commit -m "Added feature.txt file"
+  480  git push -u origin feature-City-Branch 
+  481  history -l
+  482  history > commands_history.txt
